@@ -7,7 +7,7 @@
         "gender": "Female",
         "rarity": 4,
         "directory": "hsr/chars/March 7th/Skin1",
-        "image": "HSR/March 7th.png",
+        "image": "hsr/HSR/March 7th.png",
         "pmx": "三月七.pmx"
     },
 	{
@@ -18,7 +18,7 @@
         "gender": "Female",
         "rarity": 5,
         "directory": "hsr/chars/Clara/Svarog",
-        "image": "HSR/Clara.png",
+        "image": "hsr/HSR/Clara.png",
         "pmx": "Svarog.pmx"
     },
     {
@@ -29,7 +29,7 @@
         "gender": "Female",
         "rarity": 5,
         "directory": "hsr/chars/Acheron/Acheron - Red Form",
-        "image": "HSR/Acheron.png",
+        "image": "hsr/HSR/Acheron.png",
         "pmx": "星穹铁道—黄泉（轴修复）.pmx"
     },
 	{
@@ -40,7 +40,7 @@
         "gender": "Female",
         "rarity": 5,
         "directory": "hsr/chars/Feixiao/Nocape",
-        "image": "HSR/Feixiao.png",
+        "image": "hsr/HSR/Feixiao.png",
         "pmx": "星穹铁道—飞霄（无外套）.pmx"
     },
 	{
@@ -51,7 +51,7 @@
         "gender": "Female",
         "rarity": 5,
         "directory": "hsr/chars/Tribbie",
-        "image": "HSR/Tribbie.png",
+        "image": "hsr/HSR/Tribbie.png",
         "pmx": "缇安.pmx"
     },
 	{
@@ -62,7 +62,7 @@
         "gender": "Female",
         "rarity": 5,
         "directory": "hsr/chars/Tribbie",
-        "image": "HSR/Tribbie.png",
+        "image": "hsr/HSR/Tribbie.png",
         "pmx": "缇宁.pmx"
     },
 	{
@@ -73,7 +73,7 @@
         "gender": "Male",
         "rarity": 5,
         "directory": "hsr/chars/Phainon/Phainon_alter",
-        "image": "HSR/Phainon.png",
+        "image": "hsr/HSR/Phainon.png",
         "pmx": "Phainon.pmx"
     },
     {
@@ -84,7 +84,7 @@
         "gender": "Female",
         "rarity": 5,
         "directory": "hsr/chars/Firefly/Firefly_skin",
-        "image": "HSR/Firefly.png",
+        "image": "hsr/HSR/Firefly.png",
         "pmx": "Firefly.pmx"
     },
     {
@@ -95,7 +95,7 @@
         "gender": "Female",
         "rarity": 5,
         "directory": "hsr/chars/Firefly/Sam",
-        "image": "HSR/Firefly.png",
+        "image": "hsr/HSR/Firefly.png",
         "pmx": "Sam.pmx"
     },
 	{
@@ -106,7 +106,7 @@
         "gender": "Male",
         "rarity": 6,
         "directory": "hsr/chars/Lygus/Lygus_boss",
-        "image": "HSR/Lygus.png",
+        "image": "hsr/HSR/Lygus.png",
         "pmx": "Lygus.pmx"
     }
 ]
