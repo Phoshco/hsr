@@ -1,0 +1,112 @@
+[
+    {
+        "id": 20000013,
+        "name": "March 7th",
+        "weaponType": "Preservation",
+        "element": "Ice",
+        "gender": "Female",
+        "rarity": 4,
+        "directory": "res/chars/HSR/March 7th/Skin1",
+        "image": "HSR/March 7th.png",
+        "pmx": "三月七.pmx"
+    },
+	{
+        "id": 20000007,
+        "name": "Clara",
+        "weaponType": "Destruction",
+        "element": "Physical",
+        "gender": "Female",
+        "rarity": 5,
+        "directory": "res/chars/HSR/Clara/Svarog",
+        "image": "HSR/Clara.png",
+        "pmx": "Svarog.pmx"
+    },
+    {
+        "id": 20000046,
+        "name": "Acheron",
+        "weaponType": "Nihility",
+        "element": "Lightning",
+        "gender": "Female",
+        "rarity": 5,
+        "directory": "res/chars/HSR/Acheron/Acheron - Red Form",
+        "image": "HSR/Acheron.png",
+        "pmx": "星穹铁道—黄泉（轴修复）.pmx"
+    },
+	{
+        "id": 20000057,
+        "name": "Feixiao",
+        "weaponType": "The Hunt",
+        "element": "Wind",
+        "gender": "Female",
+        "rarity": 5,
+        "directory": "res/chars/HSR/Feixiao/Nocape",
+        "image": "HSR/Feixiao.png",
+        "pmx": "星穹铁道—飞霄（无外套）.pmx"
+    },
+	{
+        "id": 20000964,
+        "name": "Tribbie",
+        "weaponType": "Harmony",
+        "element": "Quantum",
+        "gender": "Female",
+        "rarity": 5,
+        "directory": "res/chars/HSR/Tribbie",
+        "image": "HSR/Tribbie.png",
+        "pmx": "缇安.pmx"
+    },
+	{
+        "id": 20000064,
+        "name": "Tribbie",
+        "weaponType": "Harmony",
+        "element": "Quantum",
+        "gender": "Female",
+        "rarity": 5,
+        "directory": "res/chars/HSR/Tribbie",
+        "image": "HSR/Tribbie.png",
+        "pmx": "缇宁.pmx"
+    },
+	{
+        "id": 20000070,
+        "name": "Phainon",
+        "weaponType": "Destruction",
+        "element": "Physical",
+        "gender": "Male",
+        "rarity": 5,
+        "directory": "res/chars/HSR/Phainon/Phainon_alter",
+        "image": "HSR/Phainon.png",
+        "pmx": "Phainon.pmx"
+    },
+    {
+        "id": 20000951,
+        "name": "Firefly",
+        "weaponType": "Destruction",
+        "element": "Fire",
+        "gender": "Female",
+        "rarity": 5,
+        "directory": "res/chars/HSR/Firefly/Firefly_skin",
+        "image": "HSR/Firefly.png",
+        "pmx": "Firefly.pmx"
+    },
+    {
+        "id": 20000051,
+        "name": "Firefly",
+        "weaponType": "Destruction",
+        "element": "Fire",
+        "gender": "Female",
+        "rarity": 5,
+        "directory": "res/chars/HSR/Firefly/Sam",
+        "image": "HSR/Firefly.png",
+        "pmx": "Sam.pmx"
+    },
+	{
+        "id": 2000008,
+        "name": "Lygus",
+        "weaponType": "Universal",
+        "element": "Universal",
+        "gender": "Male",
+        "rarity": 6,
+        "directory": "res/chars/HSR/Lygus/Lygus_boss",
+        "image": "HSR/Lygus.png",
+        "pmx": "Lygus.pmx"
+    }
+]
