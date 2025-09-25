@@ -838,13 +838,13 @@
 	{
         "id": 20000077,
         "name": "Cyrene",
-        "weaponType": "Universal",
-        "element": "Universal",
+        "weaponType": "Remembrance",
+        "element": "Ice",
         "gender": "Female",
-        "rarity": 6,
-        "directory": "hsr/chars/Cyrene",
+        "rarity": 5,
+        "directory": "hsr/chars/Cyrene/CyreneS",
         "image": "hsr/HSR/Cyrene.png",
-        "pmx": "星穹铁道—昔涟.pmx"
+        "pmx": "Cyrene.pmx"
     },
 	{
         "id": 2000001,
@@ -944,5 +944,16 @@
         "directory": "hsr/chars/Lancer",
         "image": "hsr/HSR/Lancer.png",
         "pmx": "Lancer.pmx"
+    },
+    {
+        "id": 2000099,
+        "name": "Zandar One Kuwabara",
+        "weaponType": "Universal",
+        "element": "Universal",
+        "gender": "Male",
+        "rarity": 6,
+        "directory": "hsr/chars/Zandar One Kuwabara",
+        "image": "hsr/HSR/Zandar.png",
+        "pmx": "Zandar.pmx"
     }
 ]
