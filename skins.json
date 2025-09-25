@@ -108,5 +108,16 @@
         "directory": "hsr/chars/Lygus/Lygus_boss",
         "image": "hsr/HSR/Lygus.png",
         "pmx": "Lygus.pmx"
+    },
+	{
+        "id": 20000077,
+        "name": "Cyrene",
+        "weaponType": "Remembrance",
+        "element": "Ice",
+        "gender": "Female",
+        "rarity": 5,
+        "directory": "hsr/chars/Cyrene/CyreneS",
+        "image": "hsr/HSR/Cyrene.png",
+        "pmx": "Cyrene.pmx"
     }
 ]
