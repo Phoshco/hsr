@@ -847,6 +847,17 @@
         "pmx": "Cyrene.pmx"
     },
 	{
+        "id": 20000078,
+        "name": "The Dahlia",
+        "weaponType": "Nihility",
+        "element": "Fire",
+        "gender": "Female",
+        "rarity": 5,
+        "directory": "hsr/chars/The Dahlia",
+        "image": "hsr/HSR/The Dahlia.png",
+        "pmx": "The Dahlia.pmx"
+    },
+	{
         "id": 2000001,
         "name": "Cocolia",
         "weaponType": "Universal",
