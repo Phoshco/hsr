@@ -119,5 +119,16 @@
         "directory": "hsr/chars/Cyrene/CyreneS",
         "image": "hsr/HSR/Cyrene.png",
         "pmx": "Cyrene.pmx"
+    },
+	{
+        "id": 20000977,
+        "name": "Cyrene",
+        "weaponType": "Remembrance",
+        "element": "Ice",
+        "gender": "Female",
+        "rarity": 5,
+        "directory": "hsr/chars/Cyrene/Cyrene Anta",
+        "image": "hsr/HSR/Cyrene.png",
+        "pmx": "Cyrene.pmx"
     }
 ]
