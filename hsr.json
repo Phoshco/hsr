@@ -858,6 +858,28 @@
         "pmx": "The Dahlia.pmx"
     },
 	{
+        "id": 20000079,
+        "name": "Yao Guang",
+        "weaponType": "Elation",
+        "element": "Physical",
+        "gender": "Female",
+        "rarity": 5,
+        "directory": "hsr/chars/Yao Guang",
+        "image": "hsr/HSR/Yao Guang.png",
+        "pmx": "Yao Guang.pmx"
+    },
+	{
+        "id": 20000080,
+        "name": "Sparxie",
+        "weaponType": "Elation",
+        "element": "Fire",
+        "gender": "Female",
+        "rarity": 5,
+        "directory": "hsr/chars/Sparxie",
+        "image": "hsr/HSR/Sparxie.png",
+        "pmx": "Sparxie.pmx"
+    },
+	{
         "id": 2000001,
         "name": "Cocolia",
         "weaponType": "Universal",
