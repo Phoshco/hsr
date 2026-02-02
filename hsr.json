@@ -979,7 +979,7 @@
         "pmx": "Lancer.pmx"
     },
     {
-        "id": 2000099,
+        "id": 2000010,
         "name": "Zandar One Kuwabara",
         "weaponType": "Universal",
         "element": "Universal",
@@ -988,5 +988,16 @@
         "directory": "hsr/chars/Zandar One Kuwabara",
         "image": "hsr/HSR/Zandar.png",
         "pmx": "Zandar.pmx"
+    },
+    {
+        "id": 2000011,
+        "name": "Gopher Wood",
+        "weaponType": "Universal",
+        "element": "Universal",
+        "gender": "Male",
+        "rarity": 6,
+        "directory": "hsr/chars/Gopher Wood",
+        "image": "hsr/HSR/Gopher Wood.png",
+        "pmx": "Gopher Wood.pmx"
     }
 ]
