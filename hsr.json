@@ -880,6 +880,17 @@
         "pmx": "Sparxie.pmx"
     },
 	{
+        "id": 20000081,
+        "name": "Ashveil",
+        "weaponType": "The Hunt",
+        "element": "Lightning",
+        "gender": "Male",
+        "rarity": 5,
+        "directory": "hsr/chars/Ashveil",
+        "image": "hsr/HSR/Ashveil.png",
+        "pmx": "Ashveil.pmx"
+    },
+	{
         "id": 2000001,
         "name": "Cocolia",
         "weaponType": "Universal",
