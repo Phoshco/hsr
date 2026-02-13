@@ -900,7 +900,7 @@
         "directory": "hsr/chars/Evanescia",
         "image": "hsr/HSR/Evanescia.png",
         "pmx": "Evanescia.pmx"
-    }
+    },
 	{
         "id": 20000083,
         "name": "Pearl",
@@ -911,7 +911,7 @@
         "directory": "hsr/chars/Pearl",
         "image": "hsr/HSR/Pearl.png",
         "pmx": "Pearl.pmx"
-    }
+    },
 	{
         "id": 2000001,
         "name": "Cocolia",
