@@ -130,5 +130,38 @@
         "directory": "hsr/chars/Cyrene/Cyrene Anta",
         "image": "hsr/HSR/Cyrene.png",
         "pmx": "Cyrene.pmx"
+    },
+	{
+        "id": 20000041,
+        "name": "Ruan Mei",
+        "weaponType": "Harmony",
+        "element": "Ice",
+        "gender": "Female",
+        "rarity": 5,
+        "directory": "hsr/chars/Ruan Mei/Skin",
+        "image": "hsr/HSR/Ruan Mei.png",
+        "pmx": "Ruan Mei.pmx"
+    },
+	{
+        "id": 20000001,
+        "name": "Stelle",
+        "weaponType": "Universal",
+        "element": "Universal",
+        "gender": "Female",
+        "rarity": 5,
+        "directory": "hsr/chars/Stelle/Stelle_skin",
+        "image": "hsr/HSR/Stelle.png",
+        "pmx": "Stelle.pmx"
+    },
+    {
+        "id": 20000002,
+        "name": "Caelus",
+        "weaponType": "Universal",
+        "element": "Universal",
+        "gender": "Male",
+        "rarity": 5,
+        "directory": "hsr/chars/Caelus/Caelus_skin",
+        "image": "hsr/HSR/Caelus.png",
+        "pmx": "男主1.0.pmx"
     }
 ]

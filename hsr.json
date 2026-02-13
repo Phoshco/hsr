@@ -6,7 +6,7 @@
         "element": "Universal",
         "gender": "Female",
         "rarity": 5,
-        "directory": "hsr/chars/Stelle",
+        "directory": "hsr/chars/Stelle/Stelle",
         "image": "hsr/HSR/Stelle.png",
         "pmx": "女主1.0.pmx"
     },
@@ -17,7 +17,7 @@
         "element": "Universal",
         "gender": "Male",
         "rarity": 5,
-        "directory": "hsr/chars/Caelus",
+        "directory": "hsr/chars/Caelus/Caelus",
         "image": "hsr/HSR/Caelus.png",
         "pmx": "男主1.0.pmx"
     },
@@ -446,7 +446,7 @@
         "element": "Ice",
         "gender": "Female",
         "rarity": 5,
-        "directory": "hsr/chars/Ruan Mei",
+        "directory": "hsr/chars/Ruan Mei/Ruan Mei",
         "image": "hsr/HSR/Ruan Mei.png",
         "pmx": "╚εíñ├╖1.0.pmx"
     },
@@ -890,6 +890,28 @@
         "image": "hsr/HSR/Ashveil.png",
         "pmx": "Ashveil.pmx"
     },
+	{
+        "id": 20000082,
+        "name": "Evanescia",
+        "weaponType": "Universal",
+        "element": "Universal",
+        "gender": "Female",
+        "rarity": 6,
+        "directory": "hsr/chars/Evanescia",
+        "image": "hsr/HSR/Evanescia.png",
+        "pmx": "Evanescia.pmx"
+    }
+	{
+        "id": 20000083,
+        "name": "Pearl",
+        "weaponType": "Universal",
+        "element": "Universal",
+        "gender": "Female",
+        "rarity": 6,
+        "directory": "hsr/chars/Pearl",
+        "image": "hsr/HSR/Pearl.png",
+        "pmx": "Pearl.pmx"
+    }
 	{
         "id": 2000001,
         "name": "Cocolia",
