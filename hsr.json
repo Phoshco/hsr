@@ -893,10 +893,10 @@
 	{
         "id": 20000082,
         "name": "Evanescia",
-        "weaponType": "Universal",
-        "element": "Universal",
+        "weaponType": "Elation",
+        "element": "Physical",
         "gender": "Female",
-        "rarity": 6,
+        "rarity": 5,
         "directory": "hsr/chars/Evanescia",
         "image": "hsr/HSR/Evanescia.png",
         "pmx": "Evanescia.pmx"
@@ -923,8 +923,19 @@
         "image": "hsr/HSR/Cocolia.png",
         "pmx": "可可利亚.pmx"
     },
-    {
+	{
         "id": 2000002,
+        "name": "Screwllum",
+        "weaponType": "Universal",
+        "element": "Universal",
+        "gender": "Male",
+        "rarity": 6,
+        "directory": "hsr/chars/Screwllum",
+        "image": "hsr/HSR/Screwllum.png",
+        "pmx": "Screwllum.pmx"
+    },
+    {
+        "id": 2000003,
         "name": "Dan Feng",
         "weaponType": "Universal",
         "element": "Universal",
@@ -935,7 +946,7 @@
         "pmx": "Dan Feng.pmx"
     },
 	{
-        "id": 2000003,
+        "id": 2000004,
         "name": "Siobhan",
         "weaponType": "Universal",
         "element": "Universal",
@@ -946,7 +957,7 @@
         "pmx": "Siobhan.pmx"
     },
     {
-        "id": 2000004,
+        "id": 2000005,
         "name": "Mr. Reca",
         "weaponType": "Universal",
         "element": "Remembrance",
@@ -957,7 +968,7 @@
         "pmx": "芮克七代.pmx"
     },
     {
-        "id": 2000005,
+        "id": 2000006,
         "name": "Mem",
         "weaponType": "Universal",
         "element": "Universal",
@@ -968,7 +979,7 @@
         "pmx": "星穹铁道—迷迷.pmx"
     },
     {
-        "id": 2000006,
+        "id": 2000007,
         "name": "Tribios",
         "weaponType": "Universal",
         "element": "Universal",
@@ -979,7 +990,7 @@
         "pmx": "大缇宝.pmx"
     },
     {
-        "id": 2000007,
+        "id": 2000008,
         "name": "Flame Reaver",
         "weaponType": "Universal",
         "element": "Universal",
@@ -990,7 +1001,7 @@
         "pmx": "盗火行者.pmx"
     },
 	{
-        "id": 2000008,
+        "id": 2000009,
         "name": "Lygus",
         "weaponType": "Universal",
         "element": "Universal",
@@ -1001,7 +1012,7 @@
         "pmx": "Lygus.pmx"
     },
     {
-        "id": 2000009,
+        "id": 2000010,
         "name": "Lancer",
         "weaponType": "Universal",
         "element": "Universal",
@@ -1012,7 +1023,7 @@
         "pmx": "Lancer.pmx"
     },
     {
-        "id": 2000010,
+        "id": 2000011,
         "name": "Zandar One Kuwabara",
         "weaponType": "Universal",
         "element": "Universal",
@@ -1023,7 +1034,7 @@
         "pmx": "Zandar.pmx"
     },
     {
-        "id": 2000011,
+        "id": 2000012,
         "name": "Gopher Wood",
         "weaponType": "Universal",
         "element": "Universal",
