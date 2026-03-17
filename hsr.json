@@ -903,6 +903,17 @@
     },
 	{
         "id": 20000083,
+        "name": "Silver Wolf LV.999",
+        "weaponType": "Elation",
+        "element": "Imaginary",
+        "gender": "Female",
+        "rarity": 5,
+        "directory": "hsr/chars/SilverWolf999",
+        "image": "hsr/HSR/SilverWolf999.png",
+        "pmx": "SilverWolf999.pmx"
+    },
+	{
+        "id": 20000084,
         "name": "Pearl",
         "weaponType": "Universal",
         "element": "Universal",
@@ -911,6 +922,17 @@
         "directory": "hsr/chars/Pearl",
         "image": "hsr/HSR/Pearl.png",
         "pmx": "Pearl.pmx"
+    },
+	{
+        "id": 20000085,
+        "name": "Nihilux",
+        "weaponType": "Universal",
+        "element": "Universal",
+        "gender": "Female",
+        "rarity": 6,
+        "directory": "hsr/chars/Nihilux",
+        "image": "hsr/HSR/Nihilux.png",
+        "pmx": "Nihilux.pmx"
     },
 	{
         "id": 2000001,

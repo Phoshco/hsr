@@ -1,0 +1,57 @@
+{
+  "m_Shader": {
+    "m_FileID": 2,
+    "m_PathID": 2169509753915740549,
+    "Name": "",
+    "IsNull": false
+  },
+  "m_SavedProperties": {
+    "m_TexEnvs": {
+      "_MainTex": {
+        "m_Texture": {
+          "m_FileID": 1,
+          "m_PathID": 1797764572303041283,
+          "Name": "Avatar_SilverWolf999_00_Summon_Color",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      }
+    },
+    "m_Ints": null,
+    "m_Floats": {
+      "_FlipBookAutoPlaySpeed": 5.0,
+      "_FlipBookDirection": 1.0,
+      "_FlipBookID": -4.0,
+      "_PixelSampling": 1.0
+    },
+    "m_Colors": {
+      "_Color": {
+        "r": 1.0349122,
+        "g": 1.1352556,
+        "b": 1.1486983,
+        "a": 1.0
+      },
+      "_FlipBookAmount": {
+        "r": 4.0,
+        "g": 4.0,
+        "b": 16.0,
+        "a": 0.0
+      },
+      "_PixelAmount": {
+        "r": 64.0,
+        "g": 64.0,
+        "b": 0.0,
+        "a": 0.0
+      }
+    }
+  },
+  "m_Name": "SilverWolf999_00_Mat_Summon",
+  "Name": "SilverWolf999_00_Mat_Summon"
+}
