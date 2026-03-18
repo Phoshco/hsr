@@ -1,0 +1,155 @@
+{
+  "m_Shader": {
+    "m_FileID": 3,
+    "m_PathID": 5222044015081517170,
+    "Name": "",
+    "IsNull": false
+  },
+  "m_SavedProperties": {
+    "m_TexEnvs": {
+      "_BaseMap": {
+        "m_Texture": {
+          "m_FileID": 4,
+          "m_PathID": -7552263017304422521,
+          "Name": "Eff_Avatar_SilverWolf999_00_Wings_Color_02",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 3.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_DissolveMap": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 0.3
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_DistortMap": {
+        "m_Texture": {
+          "m_FileID": 5,
+          "m_PathID": 997786637590756325,
+          "Name": "Eff_noise_1413_020",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 5.0,
+          "Y": 5.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_Mask0Map": {
+        "m_Texture": {
+          "m_FileID": 6,
+          "m_PathID": -4954469029782960340,
+          "Name": "Eff_Avatar_SilverWolf999_00_Wings_Mask",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      }
+    },
+    "m_Ints": null,
+    "m_Floats": {
+      "_BaseContrast": 0.7,
+      "_BaseContrastLayerIntensity": 1.1,
+      "_CullMode": 0.0,
+      "_DISTORT": 1.0,
+      "_DissolveMapAdjust": 0.48,
+      "_DissolveMapUvSet": 1.0,
+      "_DissolveProcess": 0.67,
+      "_EffectUVSet": 2.0,
+      "_FresnelBias1": 0.12,
+      "_FresnelExp1": 1.06,
+      "_FresnelMode1": 2.0,
+      "_IgnoreVertexColor": 1.0,
+      "_MASK0": 1.0,
+      "_Mask0Target": 2.0,
+      "_ShowPartID": 4.0,
+      "_ShowPartsMode": 1.0,
+      "_Surface": 0.0,
+      "_ZWrite": 1.0
+    },
+    "m_Colors": {
+      "_BaseColor": {
+        "r": 1.0,
+        "g": 0.7688679,
+        "b": 0.89918697,
+        "a": 1.0
+      },
+      "_BaseMapChannelG": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 0.9411765
+      },
+      "_BaseMapChannelR": {
+        "r": 5.278032,
+        "g": 5.278032,
+        "b": 5.278032,
+        "a": 1.0
+      },
+      "_BaseMapFlowSpeed": {
+        "r": 0.0,
+        "g": -0.7,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_DissolveEdgeColor": {
+        "r": 0.2509804,
+        "g": 1.3019608,
+        "b": 2.0,
+        "a": 0.0
+      },
+      "_DissolveEdgeColor1": {
+        "r": 0.24056602,
+        "g": 0.33586752,
+        "b": 1.0,
+        "a": 0.0
+      },
+      "_DissolveRemap": {
+        "r": 0.0,
+        "g": 0.4472392,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "_DistortIntensity": {
+        "r": 0.03,
+        "g": 0.03,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_DistortMapFlowSpeed": {
+        "r": 0.0,
+        "g": -0.4,
+        "b": 0.0,
+        "a": 0.0
+      }
+    }
+  },
+  "m_Name": "Eff_SilverWolf999_00_Mat_Wings_08",
+  "Name": "Eff_SilverWolf999_00_Mat_Wings_08"
+}

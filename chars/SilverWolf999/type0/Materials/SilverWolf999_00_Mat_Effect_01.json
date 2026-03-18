@@ -1,0 +1,154 @@
+{
+  "m_Shader": {
+    "m_FileID": 2,
+    "m_PathID": 5222044015081517170,
+    "Name": "",
+    "IsNull": false
+  },
+  "m_SavedProperties": {
+    "m_TexEnvs": {
+      "_BaseMap": {
+        "m_Texture": {
+          "m_FileID": 1,
+          "m_PathID": 6328982295423212701,
+          "Name": "Eff_Mask_Sw01",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 0.6
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.99
+        }
+      },
+      "_DisplaceMap": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 0.117,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_DistortMap": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 0.5,
+          "Y": 0.5
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_Mask1Map": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 0.7
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      }
+    },
+    "m_Ints": null,
+    "m_Floats": {
+      "_AlphaClip": 1.0,
+      "_AlphaClipThreshold": 0.0,
+      "_BaseAlphaSource": 4.0,
+      "_BaseContrastLayerIntensity": 1.5,
+      "_BaseLayerIntensity": 2.0,
+      "_CullMode": 0.0,
+      "_DisplaceIntensity": 1.0,
+      "_DissolveMapChannel": 2.0,
+      "_DissolveMapUvSet": 1.0,
+      "_DissolveProcess": 0.5,
+      "_EffectUVSet": 1.0,
+      "_GlobalAlphaMultiplier": 3.5,
+      "_Mask0MapChannel": 1.0,
+      "_Mask0MapDistortUV": 1.0,
+      "_ShowPartID": 0.0,
+      "_Surface": 0.0,
+      "_UsingDitherAlpha": 1.0
+    },
+    "m_Colors": {
+      "_BaseColor": {
+        "r": 2.6082377,
+        "g": 2.6082377,
+        "b": 2.6082377,
+        "a": 1.0
+      },
+      "_BaseMapChannelB": {
+        "r": 16.0,
+        "g": 16.0,
+        "b": 16.0,
+        "a": 1.0
+      },
+      "_BaseMapChannelG": {
+        "r": 3.245062,
+        "g": 3.245062,
+        "b": 3.245062,
+        "a": 1.0
+      },
+      "_BaseMapFlowSpeed": {
+        "r": 0.2,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_DisplaceRemap": {
+        "r": 0.0,
+        "g": 0.01,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_DissolveMapFlowSpeed": {
+        "r": 0.0,
+        "g": 0.5,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_DissolveRemap": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "_DistortIntensity": {
+        "r": 0.1,
+        "g": 0.1,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_DistortMapFlowSpeed": {
+        "r": 0.15,
+        "g": 0.1,
+        "b": 0.0,
+        "a": 0.0
+      }
+    }
+  },
+  "m_Name": "SilverWolf999_00_Mat_Effect_01",
+  "Name": "SilverWolf999_00_Mat_Effect_01"
+}

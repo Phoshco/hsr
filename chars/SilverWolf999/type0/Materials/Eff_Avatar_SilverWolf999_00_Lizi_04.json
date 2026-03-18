@@ -1,0 +1,74 @@
+{
+  "m_Shader": {
+    "m_FileID": 1,
+    "m_PathID": 1481540984550491026,
+    "Name": "",
+    "IsNull": false
+  },
+  "m_SavedProperties": {
+    "m_TexEnvs": {
+      "_FlipBookAutoPlayCurveMap": {
+        "m_Texture": {
+          "m_FileID": 2,
+          "m_PathID": 7129773198858748515,
+          "Name": "Eff_Avatar_SilverWolf999_00_Lizi_Ramp",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_MainTex": {
+        "m_Texture": {
+          "m_FileID": 3,
+          "m_PathID": -1002911879394876837,
+          "Name": "Eff_Avatar_SilverWolf999_00_Lizi04_6x6A_V8",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      }
+    },
+    "m_Ints": null,
+    "m_Floats": {
+      "_AlphaClip": 1.0,
+      "_AlphaClipThreshold": 0.2,
+      "_Cull": 0.0,
+      "_DstBlend": 10.0,
+      "_FlipBookAutoPlay": 1.0,
+      "_FlipBookAutoPlayCurve": 1.0,
+      "_FlipBookAutoPlaySpeed": 24.999998,
+      "_IgnoreVertexColor": 1.0,
+      "_SoftNear": -0.26,
+      "_SrcBlend": 5.0,
+      "_ZWrite": 1.0
+    },
+    "m_Colors": {
+      "_Color": {
+        "r": 1.5157166,
+        "g": 1.5157166,
+        "b": 1.5157166,
+        "a": 1.0
+      },
+      "_FlipBookAmount": {
+        "r": 6.0,
+        "g": 6.0,
+        "b": 0.0,
+        "a": 0.0
+      }
+    }
+  },
+  "m_Name": "Eff_Avatar_SilverWolf999_00_Lizi_04",
+  "Name": "Eff_Avatar_SilverWolf999_00_Lizi_04"
+}

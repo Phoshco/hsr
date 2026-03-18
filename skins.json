@@ -99,6 +99,17 @@
         "pmx": "Sam.pmx"
     },
 	{
+        "id": 20000083,
+        "name": "Silver Wolf LV.999",
+        "weaponType": "Elation",
+        "element": "Imaginary",
+        "gender": "Female",
+        "rarity": 5,
+        "directory": "hsr/chars/SilverWolf999/type1",
+        "image": "hsr/HSR/SilverWolf999.png",
+        "pmx": "SilverWolf999.pmx"
+    },
+	{
         "id": 2000008,
         "name": "Lygus",
         "weaponType": "Universal",

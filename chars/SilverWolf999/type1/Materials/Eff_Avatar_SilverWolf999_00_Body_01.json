@@ -1,0 +1,152 @@
+{
+  "m_Shader": {
+    "m_FileID": 1,
+    "m_PathID": 5222044015081517170,
+    "Name": "",
+    "IsNull": false
+  },
+  "m_SavedProperties": {
+    "m_TexEnvs": {
+      "_BaseMap": {
+        "m_Texture": {
+          "m_FileID": 2,
+          "m_PathID": -6726904990577180086,
+          "Name": "Eff_Nosie_4001",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.5,
+          "Y": 0.7
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_DissolveMap": {
+        "m_Texture": {
+          "m_FileID": 3,
+          "m_PathID": -4110788120639228658,
+          "Name": "Eff_Nosie_334",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 2.0,
+          "Y": 2.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_DistortMap": {
+        "m_Texture": {
+          "m_FileID": 4,
+          "m_PathID": -6664406988785197174,
+          "Name": "Eff_NoiseSmooth_03",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_Mask0Map": {
+        "m_Texture": {
+          "m_FileID": 5,
+          "m_PathID": -1342405509239903469,
+          "Name": "Eff_Nosie_319",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 3.0,
+          "Y": 2.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_Mask1Map": {
+        "m_Texture": {
+          "m_FileID": 6,
+          "m_PathID": 4825224607348089194,
+          "Name": "Eff_Avatar_SilverWolf999_00_Body_Mask",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      }
+    },
+    "m_Ints": null,
+    "m_Floats": {
+      "_BaseContrast": 1.5,
+      "_BaseContrastLayerIntensity": 3.0,
+      "_BaseMapDistortUV": 0.0,
+      "_CullMode": 0.0,
+      "_DISSOLVE": 1.0,
+      "_DISTORT": 1.0,
+      "_DissolveProcess": -0.51,
+      "_IgnoreVertexColor": 1.0,
+      "_MASK0": 1.0,
+      "_MASK1": 1.0,
+      "_Mask0MapAdjust": 0.46
+    },
+    "m_Colors": {
+      "_BaseColor": {
+        "r": 1.3809379,
+        "g": 1.031544,
+        "b": 1.4142135,
+        "a": 0.6313726
+      },
+      "_BaseMapFlowSpeed": {
+        "r": 0.0,
+        "g": 0.03,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_DissolveEdgeColor": {
+        "r": 1.2428302,
+        "g": 0.3962264,
+        "b": 4.0,
+        "a": 1.0
+      },
+      "_DissolveMapFlowSpeed": {
+        "r": 0.01,
+        "g": 0.05,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_DistortIntensity": {
+        "r": 0.0,
+        "g": 0.3,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_DistortMapFlowSpeed": {
+        "r": 0.0,
+        "g": -0.01,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_Mask0MapFlowSpeed": {
+        "r": 0.0,
+        "g": 0.05,
+        "b": 0.0,
+        "a": 0.0
+      }
+    }
+  },
+  "m_Name": "Eff_Avatar_SilverWolf999_00_Body_01",
+  "Name": "Eff_Avatar_SilverWolf999_00_Body_01"
+}
