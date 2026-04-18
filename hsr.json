@@ -259,7 +259,7 @@
         "element": "Lightning",
         "gender": "Male",
         "rarity": 5,
-        "directory": "hsr/chars/Jing Yuan",
+        "directory": "hsr/chars/Jing Yuan/Jing Yuan",
         "image": "hsr/HSR/Jing Yuan.png",
         "pmx": "景元.pmx"
     },
@@ -864,7 +864,7 @@
         "element": "Physical",
         "gender": "Female",
         "rarity": 5,
-        "directory": "hsr/chars/Yao Guang",
+        "directory": "hsr/chars/Yao Guang/Yao Guang",
         "image": "hsr/HSR/Yao Guang.png",
         "pmx": "Yao Guang.pmx"
     },

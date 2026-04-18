@@ -110,6 +110,28 @@
         "pmx": "SilverWolf999.pmx"
     },
 	{
+        "id": 20000024,
+        "name": "Jing Yuan",
+        "weaponType": "Erudition",
+        "element": "Lightning",
+        "gender": "Male",
+        "rarity": 5,
+        "directory": "hsr/chars/Jing Yuan/Jing Yuan event",
+        "image": "hsr/HSR/Jing Yuan.png",
+        "pmx": "景元.pmx"
+    },
+	{
+        "id": 20000079,
+        "name": "Yao Guang",
+        "weaponType": "Elation",
+        "element": "Physical",
+        "gender": "Female",
+        "rarity": 5,
+        "directory": "hsr/chars/Yao Guang/Yao Guang event",
+        "image": "hsr/HSR/Yao Guang.png",
+        "pmx": "Yao Guang.pmx"
+    },
+	{
         "id": 2000008,
         "name": "Lygus",
         "weaponType": "Universal",
