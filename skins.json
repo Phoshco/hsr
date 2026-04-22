@@ -132,6 +132,17 @@
         "pmx": "Yao Guang.pmx"
     },
 	{
+        "id": 20000066,
+        "name": "Castorice",
+        "weaponType": "Remembrance",
+        "element": "Quantum",
+        "gender": "Female",
+        "rarity": 5,
+        "directory": "hsr/chars/Castorice/Castorice_skin",
+        "image": "hsr/HSR/Castorice.png",
+        "pmx": "星穹铁道—遐蝶2.pmx"
+    },
+	{
         "id": 2000008,
         "name": "Lygus",
         "weaponType": "Universal",
