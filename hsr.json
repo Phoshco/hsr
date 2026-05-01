@@ -914,6 +914,17 @@
     },
 	{
         "id": 20000084,
+        "name": "Mortenax Blade",
+        "weaponType": "Nihility",
+        "element": "Fire",
+        "gender": "Male",
+        "rarity": 5,
+        "directory": "hsr/chars/Mortenax Blade",
+        "image": "hsr/HSR/Mortenax Blade.png",
+        "pmx": "Mortenax Blade.pmx"
+    },
+	{
+        "id": 20000085,
         "name": "Pearl",
         "weaponType": "Universal",
         "element": "Universal",
@@ -924,7 +935,7 @@
         "pmx": "Pearl.pmx"
     },
 	{
-        "id": 20000085,
+        "id": 20000086,
         "name": "Nihilux",
         "weaponType": "Universal",
         "element": "Universal",

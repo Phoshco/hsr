@@ -1,0 +1,88 @@
+{
+  "m_Shader": {
+    "m_FileID": 4,
+    "m_PathID": -7016092255023927970,
+    "Name": "miHoYo/CRP_Character/CharacterBase",
+    "IsNull": false
+  },
+  "m_SavedProperties": {
+    "m_TexEnvs": {
+      "_LightMap": {
+        "m_Texture": {
+          "m_FileID": 1,
+          "m_PathID": -8708357283634144360,
+          "Name": "Common_LightMap",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_MainTex": {
+        "m_Texture": {
+          "m_FileID": 3,
+          "m_PathID": 1540306836010922478,
+          "Name": "Avatar_MortenaxBlade_00_EffectFlower01_Color",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_MaterialValuesPackLUT": {
+        "m_Texture": {
+          "m_FileID": 2,
+          "m_PathID": 182899971145926857,
+          "Name": "MaterialIDValuesLUTMortenaxBlade_00_Mat_EffectFlower01",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      }
+    },
+    "m_Ints": null,
+    "m_Floats": {
+      "_CullMode": 0.0,
+      "_OutlinePolygonOffsetFactor": 1.2,
+      "_OutlinePolygonOffsetUnits": 1000.0,
+      "_OutlineWidth": 0.045,
+      "_SpecularIntensity0": 0.0,
+      "_SpecularRoughness0": 0.0,
+      "_SpecularShininess0": 0.1,
+      "_UVChannelBack": 0.0,
+      "_UseMaterialValuesLUT": 1.0
+    },
+    "m_Colors": {
+      "_OutlineColor0": {
+        "r": 0.3301887,
+        "g": 0.16261138,
+        "b": 0.13082948,
+        "a": 1.0
+      },
+      "_SpecularColor0": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      }
+    }
+  },
+  "m_Name": "MortenaxBlade_00_Mat_EffectFlower01",
+  "Name": "MortenaxBlade_00_Mat_EffectFlower01"
+}

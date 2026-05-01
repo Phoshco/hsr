@@ -1,0 +1,113 @@
+{
+  "m_Shader": {
+    "m_FileID": 3,
+    "m_PathID": 5222044015081517170,
+    "Name": "miHoYo/CRP_Effect/VFX_Common",
+    "IsNull": false
+  },
+  "m_SavedProperties": {
+    "m_TexEnvs": {
+      "_BaseMap": {
+        "m_Texture": {
+          "m_FileID": 1,
+          "m_PathID": 872652989864986,
+          "Name": "Eff_Avatar_MortenaxBlade_00_Skill02_Mask_04",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_DissolveMap": {
+        "m_Texture": {
+          "m_FileID": 4,
+          "m_PathID": -7028243338789776547,
+          "Name": "Eff_Noise_05",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 2.0,
+          "Y": 3.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_Mask0Map": {
+        "m_Texture": {
+          "m_FileID": 2,
+          "m_PathID": 3864960824973806918,
+          "Name": "Eff_Mask_201",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      }
+    },
+    "m_Ints": null,
+    "m_Floats": {
+      "_AlphaClip": 1.0,
+      "_BaseAlphaSource": 4.0,
+      "_CullMode": 0.0,
+      "_DISSOLVE": 1.0,
+      "_DissolveEdge": 0.1,
+      "_DissolveMapUvSet": 1.0,
+      "_DissolveProcess": -1.0,
+      "_EffectUVSet": 1.0,
+      "_Fresnel": 1.0,
+      "_FresnelBias0": 0.33,
+      "_FresnelExp0": 16.71,
+      "_MASK0": 1.0,
+      "_Mask0MapUvSet": 1.0,
+      "_Mask0Target": 4.0,
+      "_ShowPartID": 0.0,
+      "_ZWrite": 1.0
+    },
+    "m_Colors": {
+      "_BaseColor": {
+        "r": 0.5471698,
+        "g": 0.14711641,
+        "b": 0.14711641,
+        "a": 1.0
+      },
+      "_DissolveEdgeColor": {
+        "r": 0.7490196,
+        "g": 0.33333334,
+        "b": 0.11764706,
+        "a": 1.0
+      },
+      "_DissolveMapFlowSpeed": {
+        "r": 1.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_DissolveRemap": {
+        "r": 0.7383407,
+        "g": 0.78797644,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "_FresnelColor0": {
+        "r": 2.5280242,
+        "g": 0.37561947,
+        "b": 0.0,
+        "a": 1.0
+      }
+    }
+  },
+  "m_Name": "Eff_Avatar_MortenaxBlade_00_Skill02_Weapon_12",
+  "Name": "Eff_Avatar_MortenaxBlade_00_Skill02_Weapon_12"
+}
