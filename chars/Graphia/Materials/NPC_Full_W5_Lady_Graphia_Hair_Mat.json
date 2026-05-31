@@ -1,0 +1,134 @@
+{
+  "m_Shader": {
+    "m_FileID": 1,
+    "m_PathID": -8335713502764873453,
+    "Name": "",
+    "IsNull": false
+  },
+  "m_SavedProperties": {
+    "m_TexEnvs": {
+      "_DiffuseCoolRampMultiTex": {
+        "m_Texture": {
+          "m_FileID": 5,
+          "m_PathID": 1010281409370811389,
+          "Name": "NPC_Full_W5_Lady_Graphia_Hair_Warm_Ramp",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_DiffuseRampMultiTex": {
+        "m_Texture": {
+          "m_FileID": 5,
+          "m_PathID": 1010281409370811389,
+          "Name": "NPC_Full_W5_Lady_Graphia_Hair_Warm_Ramp",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_LightMap": {
+        "m_Texture": {
+          "m_FileID": 6,
+          "m_PathID": 4041733956830220148,
+          "Name": "NPC_Full_W5_Lady_Graphia_Hair_LightMap",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_MainTex": {
+        "m_Texture": {
+          "m_FileID": 7,
+          "m_PathID": 177526170471038740,
+          "Name": "NPC_Full_W5_Lady_Graphia_Hair_Color",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_OutlineColorTex": {
+        "m_Texture": {
+          "m_FileID": 8,
+          "m_PathID": -1605873811158013484,
+          "Name": "",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      }
+    },
+    "m_Ints": null,
+    "m_Floats": {
+      "_OutlineBlendWeight": 0.28,
+      "_OutlinePolygonOffsetFactor": 0.5,
+      "_OutlineWidth": 0.04,
+      "_ReceiveShadows": 1.0,
+      "_RimWidth": 1.62,
+      "_Rimintensity": 2.66,
+      "_SpecularIntensity0": 0.6,
+      "_SpecularRoughness": 0.01,
+      "_SpecularRoughness0": 0.177,
+      "_SpecularShininess0": 5.0,
+      "_mBloomIntensity0": 0.02
+    },
+    "m_Colors": {
+      "_BackColor": {
+        "r": 0.216981,
+        "g": 0.216981,
+        "b": 0.216981,
+        "a": 1.0
+      },
+      "_OutlineColor0": {
+        "r": 0.39607844,
+        "g": 0.078431346,
+        "b": 0.08627448,
+        "a": 1.0
+      },
+      "_RimColor0": {
+        "r": 0.574,
+        "g": 0.54777664,
+        "b": 0.53320813,
+        "a": 1.0
+      },
+      "_SpecularColor0": {
+        "r": 0.490196,
+        "g": 0.490196,
+        "b": 0.490196,
+        "a": 1.0
+      }
+    }
+  },
+  "m_Name": "NPC_Full_W5_Lady_Graphia_Hair_Mat",
+  "Name": "NPC_Full_W5_Lady_Graphia_Hair_Mat"
+}

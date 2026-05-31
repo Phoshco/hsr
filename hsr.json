@@ -1076,5 +1076,16 @@
         "directory": "hsr/chars/Gopher Wood",
         "image": "hsr/HSR/Gopher Wood.png",
         "pmx": "Gopher Wood.pmx"
+    },
+    {
+        "id": 2000013,
+        "name": "Graphia",
+        "weaponType": "Universal",
+        "element": "Universal",
+        "gender": "Female",
+        "rarity": 6,
+        "directory": "hsr/chars/Graphia",
+        "image": "hsr/HSR/Graphia.png",
+        "pmx": "Graphia.pmx"
     }
 ]
