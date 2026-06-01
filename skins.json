@@ -187,6 +187,17 @@
         "pmx": "Ruan Mei.pmx"
     },
 	{
+        "id": 20000011,
+        "name": "Himeko",
+        "weaponType": "Erudition",
+        "element": "Fire",
+        "gender": "Female",
+        "rarity": 5,
+        "directory": "hsr/chars/Himeko/Himeko_youth",
+        "image": "hsr/HSR/Himeko.png",
+        "pmx": "Himeko.pmx"
+    },
+	{
         "id": 20000001,
         "name": "Stelle",
         "weaponType": "Universal",

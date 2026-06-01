@@ -1,0 +1,113 @@
+{
+  "m_Shader": {
+    "m_FileID": 1,
+    "m_PathID": -8335713502764873453,
+    "Name": "",
+    "IsNull": false
+  },
+  "m_SavedProperties": {
+    "m_TexEnvs": {
+      "_DiffuseCoolRampMultiTex": {
+        "m_Texture": {
+          "m_FileID": 7,
+          "m_PathID": 4407476169513406513,
+          "Name": "",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_DiffuseRampMultiTex": {
+        "m_Texture": {
+          "m_FileID": 8,
+          "m_PathID": -982842185215213865,
+          "Name": "",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_LightMap": {
+        "m_Texture": {
+          "m_FileID": 9,
+          "m_PathID": 143353185930733574,
+          "Name": "NPC_Full_W5_Lady_HimekoYouth_Hair_LightMap",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_MainTex": {
+        "m_Texture": {
+          "m_FileID": 10,
+          "m_PathID": 6948903592525711119,
+          "Name": "NPC_Full_W5_Lady_HimekoYouth_Hair_Color",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      }
+    },
+    "m_Ints": null,
+    "m_Floats": {
+      "_OutlinePolygonOffsetFactor": 0.5,
+      "_OutlineWidth": 0.04,
+      "_ReceiveShadows": 1.0,
+      "_RimWidth": 2.0,
+      "_SpecularRoughness": 0.01,
+      "_mBloomIntensity0": 0.02
+    },
+    "m_Colors": {
+      "_BackColor": {
+        "r": 0.21698111,
+        "g": 0.21698111,
+        "b": 0.21698111,
+        "a": 1.0
+      },
+      "_OutlineColor0": {
+        "r": 0.14150941,
+        "g": 0.048145015,
+        "b": 0.026032396,
+        "a": 1.0
+      },
+      "_RimColor0": {
+        "r": 0.5754717,
+        "g": 0.48046458,
+        "b": 0.48046458,
+        "a": 1.0
+      },
+      "_SpecularColor0": {
+        "r": 0.6792453,
+        "g": 0.6792453,
+        "b": 0.6792453,
+        "a": 1.0
+      }
+    }
+  },
+  "m_Name": "NPC_Full_W5_Lady_HimekoYouth_Hair_Mat",
+  "Name": "NPC_Full_W5_Lady_HimekoYouth_Hair_Mat"
+}

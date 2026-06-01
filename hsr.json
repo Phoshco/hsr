@@ -116,7 +116,7 @@
         "element": "Fire",
         "gender": "Female",
         "rarity": 5,
-        "directory": "hsr/chars/Himeko",
+        "directory": "hsr/chars/Himeko/Himeko",
         "image": "hsr/HSR/Himeko.png",
         "pmx": "姬子2.0.pmx"
     },
@@ -1087,5 +1087,16 @@
         "directory": "hsr/chars/Graphia",
         "image": "hsr/HSR/Graphia.png",
         "pmx": "Graphia.pmx"
+    },
+    {
+        "id": 2000014,
+        "name": "Asat Pramad",
+        "weaponType": "Universal",
+        "element": "Universal",
+        "gender": "Male",
+        "rarity": 6,
+        "directory": "hsr/chars/Asat Pramad",
+        "image": "hsr/HSR/Asat Pramad.png",
+        "pmx": "Asat Pramad.pmx"
     }
 ]
