@@ -925,6 +925,39 @@
     },
 	{
         "id": 20000085,
+        "name": "Himeko Nova",
+        "weaponType": "Erudition",
+        "element": "Fire",
+        "gender": "Female",
+        "rarity": 5,
+        "directory": "hsr/chars/Himeko Nova",
+        "image": "hsr/HSR/Himeko Nova.png",
+        "pmx": "Himeko Nova.pmx"
+    },
+	{
+        "id": 20000086,
+        "name": "Gilgamesh",
+        "weaponType": "Destruction",
+        "element": "Lightning",
+        "gender": "Male",
+        "rarity": 5,
+        "directory": "hsr/chars/Gilgamesh",
+        "image": "hsr/HSR/Gilgamesh.png",
+        "pmx": "Gilgamesh.pmx"
+    },
+	{
+        "id": 20000087,
+        "name": "Rin Tohsaka",
+        "weaponType": "Erudition",
+        "element": "Quantum",
+        "gender": "Female",
+        "rarity": 5,
+        "directory": "hsr/chars/Rin Tohsaka",
+        "image": "hsr/HSR/Rin Tohsaka.png",
+        "pmx": "Rin Tohsaka.pmx"
+    },
+	{
+        "id": 20000088,
         "name": "Pearl",
         "weaponType": "Universal",
         "element": "Universal",
@@ -935,7 +968,7 @@
         "pmx": "Pearl.pmx"
     },
 	{
-        "id": 20000086,
+        "id": 20000089,
         "name": "Nihilux",
         "weaponType": "Universal",
         "element": "Universal",

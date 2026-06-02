@@ -1,0 +1,442 @@
+{
+  "m_Shader": {
+    "m_FileID": 1,
+    "m_PathID": -7016092255023927970,
+    "Name": "",
+    "IsNull": false
+  },
+  "m_SavedProperties": {
+    "m_TexEnvs": {
+      "_DiffuseCoolRampMultiTex": {
+        "m_Texture": {
+          "m_FileID": 2,
+          "m_PathID": 6097728849657953890,
+          "Name": "Avatar_HimekoNova_00_Body_Cool_Ramp",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_DiffuseRampMultiTex": {
+        "m_Texture": {
+          "m_FileID": 3,
+          "m_PathID": 8244929225302023219,
+          "Name": "Avatar_HimekoNova_00_Body_Warm_Ramp",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_GlintMask": {
+        "m_Texture": {
+          "m_FileID": 4,
+          "m_PathID": 4731092596817396174,
+          "Name": "Avatar_HimekoNova_00_Body_Mask",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_LightMap": {
+        "m_Texture": {
+          "m_FileID": 5,
+          "m_PathID": -8837539639878994243,
+          "Name": "Avatar_HimekoNova_00_Body_LightMap_L",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_MainTex": {
+        "m_Texture": {
+          "m_FileID": 6,
+          "m_PathID": 2628244358961869510,
+          "Name": "Avatar_HimekoNova_00_Body_Color_A_L",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_MaterialValuesPackLUT": {
+        "m_Texture": {
+          "m_FileID": 7,
+          "m_PathID": 866709891533747982,
+          "Name": "MaterialIDValuesLUTCyrene_00_Mat_Body_D",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_SkyStarMaskTex": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 0.94,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_SkyStarTex": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 2.48,
+          "Y": 1.58
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_StockRangeTex": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 30.0,
+          "Y": 30.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      }
+    },
+    "m_Ints": null,
+    "m_Floats": {
+      "_AlphaCutoff": 0.54,
+      "_AlphaTestThreshold": 0.2,
+      "_CullMode": 0.0,
+      "_CustomParamA3": 2.0,
+      "_CustomParamB3": 1.5,
+      "_DstBlend": 1.0,
+      "_EnableAlphaCutoff": 1.0,
+      "_GlintConcentration": 0.0,
+      "_GlintDensity": 0.5,
+      "_GlintRandom": 0.5,
+      "_GlintScale": 200.0,
+      "_GlintSparkFreq": 0.2,
+      "_GlintSparkle": 0.0,
+      "_GlintUVTillingY": 0.5,
+      "_GlintViewFreq": 6.0,
+      "_GlintWorldPosUV": 1.0,
+      "_GlobalGlintDensity": 1.0,
+      "_GlobalGlintIntensity": 3.0,
+      "_GlobalGlintPointScale": 0.05,
+      "_GlobalGlintScale": 0.0,
+      "_GlobalGlintShadow": 0.02,
+      "_GlobalGlintSparkFreq": 0.2,
+      "_GlobalGlintSparkle": 1.0,
+      "_GlobalGlintViewFreq": 1.0,
+      "_MatCapStrength": 1.42,
+      "_MatCapStrengthInShadow": 1.0,
+      "_OSScale": 1.6,
+      "_OutlineNormalFrom": 1.0,
+      "_OutlineOffset": 0.5,
+      "_OutlineWidth": 0.05,
+      "_RenderingMode": 1.0,
+      "_RimEdgeSoftness0": 0.7,
+      "_RimEdgeSoftness1": 0.7,
+      "_RimEdgeSoftness2": 0.5,
+      "_RimEdgeSoftness3": 0.5,
+      "_RimEdgeSoftness4": 0.5,
+      "_RimEdgeSoftness5": 0.5,
+      "_RimEdgeSoftness6": 0.5,
+      "_RimEdgeSoftness7": 0.5,
+      "_RimShadowFeather2": 0.8,
+      "_RimShadowFeather3": 0.9,
+      "_RimShadowFeather4": 0.8,
+      "_RimShadowFeather6": 0.6,
+      "_RimShadowIntensity": 1.5,
+      "_RimShadowWidth0": 0.0,
+      "_RimShadowWidth1": 0.0,
+      "_RimShadowWidth3": 1.5,
+      "_RimShadowWidth4": 1.5,
+      "_RimShadowWidth5": 0.0,
+      "_RimShadowWidth6": 2.0,
+      "_RimShadowWidth7": 0.0,
+      "_RimWidth": 2.5,
+      "_RimWidth0": 0.0,
+      "_Rimintensity": 2.5,
+      "_SkyRange": -0.157,
+      "_SkyStarDepthScale": 1.37,
+      "_SkyStarMaskTexSpeed": 0.24,
+      "_SkyStarTexScale": 13.7,
+      "_SpecularIntensity": 1.2,
+      "_SpecularIntensity2": 1.1,
+      "_SpecularIntensity3": 1.5,
+      "_SpecularIntensity4": 1.2,
+      "_SpecularIntensity6": 1.2,
+      "_SpecularRoughness": 0.02,
+      "_SpecularRoughness1": 0.3,
+      "_SpecularRoughness2": 0.1,
+      "_SpecularRoughness3": 0.04,
+      "_SpecularRoughness6": 0.3,
+      "_StockRoughness": 0.81,
+      "_StockSP": 0.55,
+      "_Stockpower": 1.5,
+      "_Stockpower1": 4.0,
+      "_Stockthickness": 0.85,
+      "_UseMatcap": 1.0,
+      "_mBloomIntensity0": 0.02,
+      "_mBloomIntensity1": 0.05,
+      "_mBloomIntensity2": 0.02,
+      "_mBloomIntensity3": 0.3,
+      "_mBloomIntensity4": 0.1,
+      "_mBloomIntensity6": 0.2,
+      "_mBloomIntensity7": 0.5
+    },
+    "m_Colors": {
+      "_GlintColor": {
+        "r": 0.8,
+        "g": 0.78421056,
+        "b": 0.72105265,
+        "a": 1.0
+      },
+      "_GlobalGlintColor": {
+        "r": 0.8396226,
+        "g": 0.67724276,
+        "b": 0.8396226,
+        "a": 1.0
+      },
+      "_MatCapColor": {
+        "r": 0.6956658,
+        "g": 0.764151,
+        "b": 0.7428783,
+        "a": 1.0
+      },
+      "_OutlineColor0": {
+        "r": 0.38823527,
+        "g": 0.1333333,
+        "b": 0.08851007,
+        "a": 1.0
+      },
+      "_OutlineColor1": {
+        "r": 0.26267904,
+        "g": 0.246974,
+        "b": 0.3490566,
+        "a": 1.0
+      },
+      "_OutlineColor2": {
+        "r": 0.23584908,
+        "g": 0.03559986,
+        "b": 0.05424728,
+        "a": 1.0
+      },
+      "_OutlineColor3": {
+        "r": 0.32941175,
+        "g": 0.14901957,
+        "b": 0.0470588,
+        "a": 1.0
+      },
+      "_OutlineColor4": {
+        "r": 0.32941177,
+        "g": 0.11046194,
+        "b": 0.04705882,
+        "a": 1.0
+      },
+      "_OutlineColor5": {
+        "r": 0.32941175,
+        "g": 0.14901957,
+        "b": 0.0470588,
+        "a": 1.0
+      },
+      "_OutlineColor6": {
+        "r": 0.32941175,
+        "g": 0.14901957,
+        "b": 0.0470588,
+        "a": 1.0
+      },
+      "_OutlineColor7": {
+        "r": 0.18896899,
+        "g": 0.16447134,
+        "b": 0.2264151,
+        "a": 1.0
+      },
+      "_RimColor0": {
+        "r": 0.9716981,
+        "g": 0.89084166,
+        "b": 0.87086153,
+        "a": 1.0
+      },
+      "_RimColor1": {
+        "r": 0.9630808,
+        "g": 0.9438412,
+        "b": 0.990566,
+        "a": 1.0
+      },
+      "_RimColor2": {
+        "r": 0.9716981,
+        "g": 0.63919765,
+        "b": 0.63252044,
+        "a": 1.0
+      },
+      "_RimColor3": {
+        "r": 0.9716981,
+        "g": 0.8561944,
+        "b": 0.7241901,
+        "a": 1.0
+      },
+      "_RimColor4": {
+        "r": 1.0,
+        "g": 0.8812984,
+        "b": 0.754717,
+        "a": 1.0
+      },
+      "_RimColor5": {
+        "r": 0.98039216,
+        "g": 0.9333334,
+        "b": 0.95294124,
+        "a": 1.0
+      },
+      "_RimColor7": {
+        "r": 0.9811321,
+        "g": 0.9348523,
+        "b": 0.9541355,
+        "a": 1.0
+      },
+      "_RimShadowColor2": {
+        "r": 0.5647059,
+        "g": 0.31058827,
+        "b": 0.3345269,
+        "a": 1.0
+      },
+      "_RimShadowColor3": {
+        "r": 0.7019608,
+        "g": 0.4666667,
+        "b": 0.26666668,
+        "a": 1.0
+      },
+      "_RimShadowColor4": {
+        "r": 0.7019608,
+        "g": 0.4666667,
+        "b": 0.26666668,
+        "a": 1.0
+      },
+      "_RimShadowColor6": {
+        "r": 0.5764706,
+        "g": 0.51799816,
+        "b": 0.3845059,
+        "a": 1.0
+      },
+      "_SkyFresnelColor": {
+        "r": 0.504717,
+        "g": 0.7549115,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_SkyStarColor": {
+        "r": 1.0,
+        "g": 0.7311321,
+        "b": 0.87413746,
+        "a": 1.0
+      },
+      "_SkyStarSpeed": {
+        "r": 0.0,
+        "g": 0.01,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_SpecularColor0": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "_SpecularColor1": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "_SpecularColor2": {
+        "r": 0.7375,
+        "g": 0.85,
+        "b": 0.6791667,
+        "a": 1.0
+      },
+      "_SpecularColor3": {
+        "r": 0.8,
+        "g": 0.8,
+        "b": 0.718894,
+        "a": 1.0
+      },
+      "_SpecularColor4": {
+        "r": 0.692,
+        "g": 0.692,
+        "b": 0.62316227,
+        "a": 1.0
+      },
+      "_SpecularColor6": {
+        "r": 0.98,
+        "g": 0.98,
+        "b": 0.98,
+        "a": 1.0
+      },
+      "_Stockcolor": {
+        "r": 0.32075468,
+        "g": 0.27385187,
+        "b": 0.29886666,
+        "a": 1.0
+      },
+      "_mBloomColor7": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 0.0
+      }
+    }
+  },
+  "m_Name": "HimekoNova_00_Mat_Body_D",
+  "Name": "HimekoNova_00_Mat_Body_D"
+}

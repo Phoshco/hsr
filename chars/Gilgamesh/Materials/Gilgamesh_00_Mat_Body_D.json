@@ -1,0 +1,386 @@
+{
+  "m_Shader": {
+    "m_FileID": 2,
+    "m_PathID": -7016092255023927970,
+    "Name": "",
+    "IsNull": false
+  },
+  "m_SavedProperties": {
+    "m_TexEnvs": {
+      "_DiffuseCoolRampMultiTex": {
+        "m_Texture": {
+          "m_FileID": 6,
+          "m_PathID": 3065544861687261226,
+          "Name": "Avatar_Gilgamesh_00_Body_Cool_Ramp",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_DiffuseRampMultiTex": {
+        "m_Texture": {
+          "m_FileID": 7,
+          "m_PathID": -1730734991575469402,
+          "Name": "Avatar_Gilgamesh_00_Body_Warm_Ramp",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_LightMap": {
+        "m_Texture": {
+          "m_FileID": 8,
+          "m_PathID": 3459361548697623434,
+          "Name": "Avatar_Gilgamesh_00_Body_LightMap",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_MainTex": {
+        "m_Texture": {
+          "m_FileID": 9,
+          "m_PathID": -1643921214470364642,
+          "Name": "Avatar_Gilgamesh_00_Body_Color",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_MatCapMaskTex": {
+        "m_Texture": {
+          "m_FileID": 10,
+          "m_PathID": 6686819800237253258,
+          "Name": "Avatar_Gilgamesh_00_Mask",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_MatCapTex": {
+        "m_Texture": {
+          "m_FileID": 11,
+          "m_PathID": 4226897256542654469,
+          "Name": "Matcap_27",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_MaterialValuesPackLUT": {
+        "m_Texture": {
+          "m_FileID": 12,
+          "m_PathID": 730473867854197277,
+          "Name": "MaterialIDValuesLUTMoze_00_Mat_Body_D",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_NormalMap": {
+        "m_Texture": {
+          "m_FileID": 13,
+          "m_PathID": 4647881221879044561,
+          "Name": "Avatar_Gilgamesh_00_Body_Normal",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_StockRangeTex": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 30.0,
+          "Y": 30.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      }
+    },
+    "m_Ints": null,
+    "m_Floats": {
+      "_CullMode": 0.0,
+      "_DstBlend": 1.0,
+      "_NormalScale": 0.6,
+      "_OutlineNormalFrom": 1.0,
+      "_OutlineOffset": 0.5,
+      "_OutlinePolygonOffsetFactor": 0.5,
+      "_OutlineWidth": 0.05,
+      "_RimEdgeSoftness0": 0.5,
+      "_RimEdgeSoftness1": 0.5,
+      "_RimEdgeSoftness2": 0.5,
+      "_RimEdgeSoftness3": 0.5,
+      "_RimEdgeSoftness4": 0.5,
+      "_RimEdgeSoftness5": 0.5,
+      "_RimEdgeSoftness6": 0.5,
+      "_RimEdgeSoftness7": 0.5,
+      "_RimShadowFeather0": 0.6,
+      "_RimShadowFeather1": 0.5,
+      "_RimShadowFeather2": 0.5,
+      "_RimShadowFeather3": 0.9,
+      "_RimShadowFeather4": 0.964,
+      "_RimShadowFeather5": 0.99,
+      "_RimShadowFeather6": 0.682,
+      "_RimShadowFeather7": 0.9,
+      "_RimShadowWidth0": 0.5,
+      "_RimShadowWidth1": 1.5,
+      "_RimShadowWidth2": 2.0,
+      "_RimShadowWidth3": 3.0,
+      "_RimShadowWidth4": 2.0,
+      "_RimShadowWidth5": 0.0,
+      "_RimShadowWidth6": 1.5,
+      "_RimShadowWidth7": 1.5,
+      "_RimWidth": 2.5,
+      "_RimWidth0": 0.0,
+      "_Rimintensity": 2.5,
+      "_ShowPartID": 7.0,
+      "_SpecularIntensity": 1.2,
+      "_SpecularIntensity2": 1.5,
+      "_SpecularIntensity3": 1.2,
+      "_SpecularIntensity4": 2.0,
+      "_SpecularIntensity6": 1.3,
+      "_SpecularRoughness": 0.02,
+      "_SpecularRoughness2": 0.1,
+      "_SpecularRoughness3": 0.08,
+      "_SpecularRoughness7": 0.01,
+      "_SpecularShininess2": 9.0,
+      "_SpecularShininess3": 13.0,
+      "_SpecularShininess4": 13.0,
+      "_StockRoughness": 0.81,
+      "_StockSP": 0.55,
+      "_Stockpower": 1.5,
+      "_Stockpower1": 4.0,
+      "_Stockthickness": 0.85,
+      "_UseMatcap": 1.0,
+      "_mBloomIntensity0": 0.02,
+      "_mBloomIntensity1": 0.02,
+      "_mBloomIntensity2": 0.02,
+      "_mBloomIntensity3": 0.02,
+      "_mBloomIntensity4": 0.02,
+      "_mBloomIntensity5": 0.02,
+      "_mBloomIntensity6": 0.02,
+      "_mBloomIntensity7": 0.2
+    },
+    "m_Colors": {
+      "_MatCapColor": {
+        "r": 0.9339623,
+        "g": 0.9339623,
+        "b": 0.9339623,
+        "a": 1.0
+      },
+      "_OutlineColor4": {
+        "r": 0.2264151,
+        "g": 0.11219889,
+        "b": 0.03951584,
+        "a": 1.0
+      },
+      "_OutlineColor7": {
+        "r": 0.11049802,
+        "g": 0.08067818,
+        "b": 0.3490566,
+        "a": 1.0
+      },
+      "_RimColor0": {
+        "r": 0.7735849,
+        "g": 0.7735849,
+        "b": 0.7735849,
+        "a": 1.0
+      },
+      "_RimColor1": {
+        "r": 0.5377358,
+        "g": 0.5377358,
+        "b": 0.5377358,
+        "a": 1.0
+      },
+      "_RimColor2": {
+        "r": 1.0,
+        "g": 0.5424528,
+        "b": 0.5424528,
+        "a": 1.0
+      },
+      "_RimColor3": {
+        "r": 0.6509434,
+        "g": 0.54347634,
+        "b": 0.54347634,
+        "a": 1.0
+      },
+      "_RimColor4": {
+        "r": 0.86473614,
+        "g": 0.8773585,
+        "b": 0.624911,
+        "a": 1.0
+      },
+      "_RimColor5": {
+        "r": 0.7830189,
+        "g": 0.5942719,
+        "b": 0.5761837,
+        "a": 1.0
+      },
+      "_RimColor6": {
+        "r": 0.7924528,
+        "g": 0.7924528,
+        "b": 0.7924528,
+        "a": 1.0
+      },
+      "_RimColor7": {
+        "r": 0.8867924,
+        "g": 0.8867924,
+        "b": 0.8575115,
+        "a": 1.0
+      },
+      "_RimShadowColor0": {
+        "r": 1.0,
+        "g": 0.79423636,
+        "b": 0.3537736,
+        "a": 1.0
+      },
+      "_RimShadowColor1": {
+        "r": 0.5,
+        "g": 0.5,
+        "b": 0.5,
+        "a": 1.0
+      },
+      "_RimShadowColor2": {
+        "r": 0.5754717,
+        "g": 0.1004361,
+        "b": 0.1004361,
+        "a": 1.0
+      },
+      "_RimShadowColor3": {
+        "r": 0.2651512,
+        "g": 0.2,
+        "b": 0.32156864,
+        "a": 1.0
+      },
+      "_RimShadowColor4": {
+        "r": 0.8113208,
+        "g": 0.24802011,
+        "b": 0.18752226,
+        "a": 1.0
+      },
+      "_RimShadowColor5": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "_RimShadowColor6": {
+        "r": 0.26415092,
+        "g": 0.071021706,
+        "b": 0.071021706,
+        "a": 1.0
+      },
+      "_RimShadowColor7": {
+        "r": 0.39119795,
+        "g": 0.41045755,
+        "b": 0.5566038,
+        "a": 1.0
+      },
+      "_SpecularColor0": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "_SpecularColor1": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "_SpecularColor2": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "_SpecularColor4": {
+        "r": 0.8235294,
+        "g": 0.7121297,
+        "b": 0.5019608,
+        "a": 1.0
+      },
+      "_SpecularColor5": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "_SpecularColor6": {
+        "r": 0.8018868,
+        "g": 0.8018868,
+        "b": 0.8018868,
+        "a": 1.0
+      },
+      "_SpecularColor7": {
+        "r": 0.8474546,
+        "g": 0.8564102,
+        "b": 0.8679245,
+        "a": 1.0
+      },
+      "_Stockcolor": {
+        "r": 0.3207547,
+        "g": 0.2738519,
+        "b": 0.29886672,
+        "a": 1.0
+      }
+    }
+  },
+  "m_Name": "Gilgamesh_00_Mat_Body_D",
+  "Name": "Gilgamesh_00_Mat_Body_D"
+}
