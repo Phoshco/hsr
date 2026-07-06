@@ -198,6 +198,28 @@
         "pmx": "Himeko.pmx"
     },
 	{
+        "id": 20000049,
+        "name": "Robin",
+        "weaponType": "Harmony",
+        "element": "Physical",
+        "gender": "Female",
+        "rarity": 5,
+        "directory": "hsr/chars/Robin/Robin_collab",
+        "image": "hsr/HSR/Robin.png",
+        "pmx": "Robin.pmx"
+    },
+	{
+        "id": 20000060,
+        "name": "Sunday",
+        "weaponType": "Harmony",
+        "element": "Imaginary",
+        "gender": "Male",
+        "rarity": 5,
+        "directory": "hsr/chars/Sunday/Sunday_collab",
+        "image": "hsr/HSR/Sunday.png",
+        "pmx": "Sunday.pmx"
+    },
+	{
         "id": 20000001,
         "name": "Stelle",
         "weaponType": "Universal",

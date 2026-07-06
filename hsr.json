@@ -534,7 +534,7 @@
         "element": "Physical",
         "gender": "Female",
         "rarity": 5,
-        "directory": "hsr/chars/Robin",
+        "directory": "hsr/chars/Robin/Robin",
         "image": "hsr/HSR/Robin.png",
         "pmx": "星穹铁道—知更鸟（改）.pmx"
     },
@@ -655,7 +655,7 @@
         "element": "Imaginary",
         "gender": "Male",
         "rarity": 5,
-        "directory": "hsr/chars/Sunday",
+        "directory": "hsr/chars/Sunday/Sunday",
         "image": "hsr/HSR/Sunday.png",
         "pmx": "星穹铁道—星期日2.pmx"
     },
