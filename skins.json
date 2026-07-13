@@ -220,6 +220,17 @@
         "pmx": "Sunday.pmx"
     },
 	{
+        "id": 20000080,
+        "name": "Sparxie",
+        "weaponType": "Elation",
+        "element": "Fire",
+        "gender": "Female",
+        "rarity": 5,
+        "directory": "hsr/chars/Sparxie/Sparxie_skin",
+        "image": "hsr/HSR/Sparxie.png",
+        "pmx": "Sparxie.pmx"
+    },
+	{
         "id": 20000001,
         "name": "Stelle",
         "weaponType": "Universal",

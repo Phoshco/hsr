@@ -875,7 +875,7 @@
         "element": "Fire",
         "gender": "Female",
         "rarity": 5,
-        "directory": "hsr/chars/Sparxie",
+        "directory": "hsr/chars/Sparxie/Sparxie",
         "image": "hsr/HSR/Sparxie.png",
         "pmx": "Sparxie.pmx"
     },
