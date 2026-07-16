@@ -231,6 +231,28 @@
         "pmx": "Sparxie.pmx"
     },
 	{
+        "id": 20000949,
+        "name": "Robin",
+        "weaponType": "Harmony",
+        "element": "Physical",
+        "gender": "Female",
+        "rarity": 5,
+        "directory": "hsr/chars/Robin/Robin_skin",
+        "image": "hsr/HSR/Robin.png",
+        "pmx": "Robin.pmx"
+    },
+	{
+        "id": 20000048,
+        "name": "Aventurine",
+        "weaponType": "Preservation",
+        "element": "Imaginary",
+        "gender": "Male",
+        "rarity": 5,
+        "directory": "hsr/chars/Aventurine/Aventurine_skin",
+        "image": "hsr/HSR/Aventurine.png",
+        "pmx": "Aventurine.pmx"
+    },
+	{
         "id": 20000001,
         "name": "Stelle",
         "weaponType": "Universal",

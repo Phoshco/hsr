@@ -1,0 +1,128 @@
+{
+  "m_Shader": {
+    "m_FileID": 1,
+    "m_PathID": 5742752585497941953,
+    "Name": "",
+    "IsNull": false
+  },
+  "m_SavedProperties": {
+    "m_TexEnvs": {
+      "_DiffuseRampMultiTex": {
+        "m_Texture": {
+          "m_FileID": 2,
+          "m_PathID": 4978192393983432412,
+          "Name": "Avatar_RobinS_00_Weapon_Warm_Ramp",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_MainTex": {
+        "m_Texture": {
+          "m_FileID": 4,
+          "m_PathID": 3578187943608689269,
+          "Name": "Avatar_RobinS_00_Weapon_Color",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_ParallaxTex": {
+        "m_Texture": {
+          "m_FileID": 35,
+          "m_PathID": -949984894943836197,
+          "Name": "Avatar_RobinS_00_Weapon_ParallaxMap",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      }
+    },
+    "m_Ints": null,
+    "m_Floats": {
+      "_BloomIntensity": 0.0,
+      "_CharacterToonRampModeCompensation": 0.8,
+      "_DissolveOutlineOffset": 0.76,
+      "_DissolveRate": 0.152,
+      "_DitherAlpha": 0.5,
+      "_EnableBackRimLight": 0.0,
+      "_NormalScale": 1.03,
+      "_OutlineNormalFrom": 1.0,
+      "_OutlineWidth": 0.02,
+      "_ParallaxAlpha": 0.4,
+      "_ParallaxScale": 0.185,
+      "_RimShadowFeather0": 0.31,
+      "_RimWidth": 3.0,
+      "_RimWidth0": 0.0,
+      "_Rimintensity": 3.0,
+      "_SpecularShininess": 6.0,
+      "_SpecularShininess0": 0.085,
+      "_UseNormalMap": 0.0,
+      "_mBloomIntensity0": 0.02
+    },
+    "m_Colors": {
+      "_FresnelColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_OutlineColor0": {
+        "r": 0.4433962,
+        "g": 0.09853249,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "_ParallaxMap_ST": {
+        "r": 1.0,
+        "g": 5.25,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_RimColor0": {
+        "r": 0.34901962,
+        "g": 0.16470589,
+        "b": 0.16470589,
+        "a": 1.0
+      },
+      "_RimOffset": {
+        "r": 0.1,
+        "g": 0.1,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_RimShadowColor0": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "_SpecularColor0": {
+        "r": 0.85882354,
+        "g": 0.7716116,
+        "b": 0.60117644,
+        "a": 1.0
+      }
+    }
+  },
+  "m_Name": "RobinS_00_Mat_Weapon_Crystal",
+  "Name": "RobinS_00_Mat_Weapon_Crystal"
+}

@@ -521,9 +521,9 @@
         "name": "Aventurine",
         "weaponType": "Preservation",
         "element": "Imaginary",
-        "gender": "Female",
+        "gender": "Male",
         "rarity": 5,
-        "directory": "hsr/chars/Aventurine",
+        "directory": "hsr/chars/Aventurine/Aventurine",
         "image": "hsr/HSR/Aventurine.png",
         "pmx": "星穹铁道—砂金9.pmx"
     },
