@@ -958,6 +958,28 @@
     },
 	{
         "id": 20000088,
+        "name": "Aventurine Waveflair",
+        "weaponType": "Elation",
+        "element": "Quantum",
+        "gender": "Male",
+        "rarity": 5,
+        "directory": "hsr/chars/Aventurine Waveflair",
+        "image": "hsr/HSR/Aventurine Waveflair.png",
+        "pmx": "Aventurine.pmx"
+    },
+	{
+        "id": 20000089,
+        "name": "Robin Summeretto",
+        "weaponType": "Remembrance",
+        "element": "Wind",
+        "gender": "Female",
+        "rarity": 5,
+        "directory": "hsr/chars/Robin Summeretto",
+        "image": "hsr/HSR/Robin Summeretto.png",
+        "pmx": "Robin.pmx"
+    },
+	{
+        "id": 20000090,
         "name": "Pearl",
         "weaponType": "Universal",
         "element": "Universal",
@@ -968,7 +990,7 @@
         "pmx": "Pearl.pmx"
     },
 	{
-        "id": 20000089,
+        "id": 20000091,
         "name": "Nihilux",
         "weaponType": "Universal",
         "element": "Universal",
