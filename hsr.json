@@ -981,10 +981,10 @@
 	{
         "id": 20000090,
         "name": "Pearl",
-        "weaponType": "Universal",
-        "element": "Universal",
+        "weaponType": "Elation",
+        "element": "Ice",
         "gender": "Female",
-        "rarity": 6,
+        "rarity": 5,
         "directory": "hsr/chars/Pearl",
         "image": "hsr/HSR/Pearl.png",
         "pmx": "Pearl.pmx"
