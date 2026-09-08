@@ -732,7 +732,7 @@
         "element": "Wind",
         "gender": "Male",
         "rarity": 5,
-        "directory": "hsr/chars/Anaxa",
+        "directory": "hsr/chars/Anaxa/Anaxa",
         "image": "hsr/HSR/Anaxa.png",
         "pmx": "Anaxa.pmx"
     },
@@ -743,7 +743,7 @@
         "element": "Wind",
         "gender": "Female",
         "rarity": 5,
-        "directory": "hsr/chars/Hyacine",
+        "directory": "hsr/chars/Hyacine/Hyacine",
         "image": "hsr/HSR/Hyacine.png",
         "pmx": "星穹铁道—风堇3.pmx"
     },

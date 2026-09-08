@@ -231,6 +231,28 @@
         "pmx": "Sparxie.pmx"
     },
 	{
+        "id": 20000067,
+        "name": "Anaxa",
+        "weaponType": "Erudition",
+        "element": "Wind",
+        "gender": "Male",
+        "rarity": 5,
+        "directory": "hsr/chars/Anaxa/Anaxa大白兔奶糖联动",
+        "image": "hsr/HSR/Anaxa.png",
+        "pmx": "Anaxa.pmx"
+    },
+	{
+        "id": 20000068,
+        "name": "Hyacine",
+        "weaponType": "Remembrance",
+        "element": "Wind",
+        "gender": "Female",
+        "rarity": 5,
+        "directory": "hsr/chars/Hyacine/Hyacine大白兔奶糖联动",
+        "image": "hsr/HSR/Hyacine.png",
+        "pmx": "风堇大白兔奶糖联动.pmx"
+    },
+	{
         "id": 20000001,
         "name": "Stelle",
         "weaponType": "Universal",
