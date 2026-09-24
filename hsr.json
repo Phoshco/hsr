@@ -897,7 +897,7 @@
         "element": "Physical",
         "gender": "Female",
         "rarity": 5,
-        "directory": "hsr/chars/Evanescia",
+        "directory": "hsr/chars/Evanescia/Evanescia",
         "image": "hsr/HSR/Evanescia.png",
         "pmx": "Evanescia.pmx"
     },

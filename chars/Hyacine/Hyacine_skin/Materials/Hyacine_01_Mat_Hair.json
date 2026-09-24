@@ -1,0 +1,127 @@
+{
+  "m_Shader": {
+    "m_FileID": 2,
+    "m_PathID": -8335713502764873453,
+    "Name": "",
+    "IsNull": false
+  },
+  "m_SavedProperties": {
+    "m_TexEnvs": {
+      "_DiffuseCoolRampMultiTex": {
+        "m_Texture": {
+          "m_FileID": 11,
+          "m_PathID": -5965513140901255648,
+          "Name": "Avatar_Hyacine_00_Hair_Cool_Ramp",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_DiffuseRampMultiTex": {
+        "m_Texture": {
+          "m_FileID": 20,
+          "m_PathID": 7588431155280048768,
+          "Name": "Avatar_Hyacine_00_Hair_Warm_Ramp",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_LightMap": {
+        "m_Texture": {
+          "m_FileID": 17,
+          "m_PathID": -2367732884729099339,
+          "Name": "Avatar_Hyacine_01_Hair_LightMap",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_MainTex": {
+        "m_Texture": {
+          "m_FileID": 19,
+          "m_PathID": -510764004717754155,
+          "Name": "Avatar_Hyacine_01_Hair_Color",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      }
+    },
+    "m_Ints": null,
+    "m_Floats": {
+      "_BloomIntensity": 1.0,
+      "_HairBlendOffset": -0.3,
+      "_HairBlendWeight": 0.3,
+      "_OutlineNormalFrom": 1.0,
+      "_OutlineWidth": 0.03,
+      "_RimDark0": 0.6,
+      "_RimEdgeSoftness0": 0.9,
+      "_RimShadow": 1.0,
+      "_RimShadowCt": 0.9,
+      "_RimShadowFeather0": 0.873,
+      "_RimWidth": 2.5,
+      "_Rimintensity": 2.5,
+      "_SpecularColor": 1.0,
+      "_SpecularIntensity": 0.3,
+      "_SpecularIntensity0": 0.3,
+      "_SpecularShadowIntensity": 0.086,
+      "_SpecularShadowOffset": 0.8,
+      "_SpecularShininess": 8.0,
+      "_SpecularShininess0": 8.0,
+      "_mBloomIntensity0": 0.01
+    },
+    "m_Colors": {
+      "_DissolveComponent": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 0.0
+      },
+      "_OutlineColor0": {
+        "r": 0.51886785,
+        "g": 0.2912513,
+        "b": 0.3715289,
+        "a": 1.0
+      },
+      "_RimColor0": {
+        "r": 0.936,
+        "g": 0.891072,
+        "b": 0.90724605,
+        "a": 1.0
+      },
+      "_SpecularColor0": {
+        "r": 0.7075471,
+        "g": 0.3971609,
+        "b": 0.3971609,
+        "a": 1.0
+      }
+    }
+  },
+  "m_Name": "Hyacine_01_Mat_Hair",
+  "Name": "Hyacine_01_Mat_Hair"
+}

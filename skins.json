@@ -242,6 +242,17 @@
         "pmx": "Anaxa.pmx"
     },
 	{
+        "id": 20000968,
+        "name": "Hyacine",
+        "weaponType": "Remembrance",
+        "element": "Wind",
+        "gender": "Female",
+        "rarity": 5,
+        "directory": "hsr/chars/Hyacine/Hyacine_skin",
+        "image": "hsr/HSR/Hyacine.png",
+        "pmx": "Hyacine.pmx"
+    },
+	{
         "id": 20000068,
         "name": "Hyacine",
         "weaponType": "Remembrance",
@@ -251,6 +262,17 @@
         "directory": "hsr/chars/Hyacine/Hyacine大白兔奶糖联动",
         "image": "hsr/HSR/Hyacine.png",
         "pmx": "风堇大白兔奶糖联动.pmx"
+    },
+	{
+        "id": 20000082,
+        "name": "Evanescia",
+        "weaponType": "Elation",
+        "element": "Physical",
+        "gender": "Female",
+        "rarity": 5,
+        "directory": "hsr/chars/Evanescia/Evanescia_skin",
+        "image": "hsr/HSR/Evanescia.png",
+        "pmx": "Evanescia.pmx"
     },
 	{
         "id": 20000001,

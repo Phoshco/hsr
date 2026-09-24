@@ -1,0 +1,319 @@
+{
+  "m_Shader": {
+    "m_FileID": 1,
+    "m_PathID": -569915600545274916,
+    "Name": "",
+    "IsNull": false
+  },
+  "m_SavedProperties": {
+    "m_TexEnvs": {
+      "_LightMap": {
+        "m_Texture": {
+          "m_FileID": 8,
+          "m_PathID": -5161871162787875471,
+          "Name": "Avatar_Evanescia_01_Body_LightMap_L",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_MainTex": {
+        "m_Texture": {
+          "m_FileID": 9,
+          "m_PathID": -9033509504092430085,
+          "Name": "Avatar_Evanescia_01_Body_Color_A_L",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_MatCapMaskTex": {
+        "m_Texture": {
+          "m_FileID": 15,
+          "m_PathID": -1779876291269968584,
+          "Name": "Avatar_Evanescia_01_Body_Mask_L",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_MatCapTex": {
+        "m_Texture": {
+          "m_FileID": 16,
+          "m_PathID": -4887057169444015695,
+          "Name": "Matcap_23",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_MaterialValuesPackLUT": {
+        "m_Texture": {
+          "m_FileID": 17,
+          "m_PathID": 933677918278697772,
+          "Name": "MaterialIDValuesLUTEvanescia_01_Mat_Body_Glass",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      }
+    },
+    "m_Ints": null,
+    "m_Floats": {
+      "_AlphaCutoff": 0.396,
+      "_CullMode": 0.0,
+      "_DitherAlpha": 0.088,
+      "_GBufferDepthOnly": 1.0,
+      "_OutlineNormalFrom": 1.0,
+      "_OutlineOffset": 0.4,
+      "_OutlinePolygonOffsetFactor": 0.5,
+      "_OutlineWidth": 0.045,
+      "_ReceiveShadows": 0.0,
+      "_RenderingMode": 1.0,
+      "_RimDark0": 0.8,
+      "_RimDark1": 0.5,
+      "_RimDark2": 0.5,
+      "_RimDark3": 0.5,
+      "_RimDark4": 0.5,
+      "_RimDark5": 0.5,
+      "_RimDark6": 0.5,
+      "_RimDark7": 0.5,
+      "_RimEdgeSoftness0": 0.01,
+      "_RimEdgeSoftness1": 0.01,
+      "_RimEdgeSoftness2": 0.01,
+      "_RimEdgeSoftness3": 0.01,
+      "_RimEdgeSoftness4": 0.01,
+      "_RimEdgeSoftness5": 0.01,
+      "_RimEdgeSoftness6": 0.01,
+      "_RimEdgeSoftness7": 0.01,
+      "_RimLightMode": 1.0,
+      "_RimShadowFeather1": 0.9,
+      "_RimShadowFeather2": 0.9,
+      "_RimShadowFeather3": 0.9,
+      "_RimShadowFeather4": 0.9,
+      "_RimShadowFeather5": 0.9,
+      "_RimShadowFeather6": 0.7,
+      "_RimShadowFeather7": 0.9,
+      "_RimShadowIntensity": 0.0,
+      "_RimShadowWidth0": 0.0,
+      "_RimShadowWidth1": 1.5,
+      "_RimShadowWidth2": 1.8,
+      "_RimShadowWidth3": 1.8,
+      "_RimShadowWidth4": 1.8,
+      "_RimShadowWidth5": 0.0,
+      "_RimShadowWidth6": 0.0,
+      "_RimShadowWidth7": 2.0,
+      "_RimWidth": 2.5,
+      "_SpecularIntensity": 1.2,
+      "_SpecularIntensity1": 6.1,
+      "_SpecularIntensity3": 9.5,
+      "_SpecularIntensity4": 2.0,
+      "_SpecularIntensity7": 24.0,
+      "_SpecularRoughness": 0.02,
+      "_SpecularRoughness1": 0.01,
+      "_SpecularRoughness2": 0.01,
+      "_SpecularRoughness5": 0.01,
+      "_SpecularShininess1": 31.0,
+      "_UseMatcap": 1.0,
+      "_UseMaterialValuesLUT": 1.0,
+      "_mBloomIntensity0": 0.02,
+      "_mBloomIntensity1": 0.05,
+      "_mBloomIntensity2": 0.02,
+      "_mBloomIntensity3": 0.06,
+      "_mBloomIntensity4": 0.02,
+      "_mBloomIntensity5": 0.02,
+      "_mBloomIntensity6": 0.2,
+      "_mBloomIntensity7": 0.02
+    },
+    "m_Colors": {
+      "_BackColor": {
+        "r": 0.8867924,
+        "g": 0.8867924,
+        "b": 0.8867924,
+        "a": 1.0
+      },
+      "_OutlineColor1": {
+        "r": 0.25725347,
+        "g": 0.3291954,
+        "b": 0.4433962,
+        "a": 1.0
+      },
+      "_OutlineColor2": {
+        "r": 0.32599998,
+        "g": 0.2593395,
+        "b": 0.18712398,
+        "a": 1.0
+      },
+      "_OutlineColor3": {
+        "r": 0.0492613,
+        "g": 0.1279464,
+        "b": 0.254717,
+        "a": 1.0
+      },
+      "_RimColor0": {
+        "r": 1.0,
+        "g": 0.882353,
+        "b": 0.86666673,
+        "a": 1.0
+      },
+      "_RimColor1": {
+        "r": 0.6,
+        "g": 0.5529412,
+        "b": 0.6313726,
+        "a": 1.0
+      },
+      "_RimColor2": {
+        "r": 0.8117648,
+        "g": 0.7568628,
+        "b": 0.7254902,
+        "a": 1.0
+      },
+      "_RimColor3": {
+        "r": 0.74509805,
+        "g": 0.6745098,
+        "b": 0.6666667,
+        "a": 1.0
+      },
+      "_RimColor4": {
+        "r": 0.9333334,
+        "g": 0.8470589,
+        "b": 0.8000001,
+        "a": 1.0
+      },
+      "_RimColor5": {
+        "r": 0.7058824,
+        "g": 0.6117647,
+        "b": 0.5686275,
+        "a": 1.0
+      },
+      "_RimColor6": {
+        "r": 0.854902,
+        "g": 0.86274517,
+        "b": 0.92549026,
+        "a": 1.0
+      },
+      "_RimColor7": {
+        "r": 0.7254902,
+        "g": 0.54509807,
+        "b": 0.47450984,
+        "a": 1.0
+      },
+      "_RimShadowColor1": {
+        "r": 0.85322475,
+        "g": 0.82444817,
+        "b": 0.9150943,
+        "a": 1.0
+      },
+      "_RimShadowColor2": {
+        "r": 0.8,
+        "g": 0.8,
+        "b": 0.8,
+        "a": 1.0
+      },
+      "_RimShadowColor3": {
+        "r": 0.6,
+        "g": 0.6,
+        "b": 0.6,
+        "a": 1.0
+      },
+      "_RimShadowColor4": {
+        "r": 0.627451,
+        "g": 0.627451,
+        "b": 0.627451,
+        "a": 1.0
+      },
+      "_RimShadowColor7": {
+        "r": 0.7114068,
+        "g": 0.70073867,
+        "b": 0.8207547,
+        "a": 1.0
+      },
+      "_RimShadowOffset": {
+        "r": 0.1,
+        "g": 0.1,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_SpecularColor0": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "_SpecularColor1": {
+        "r": 0.34117648,
+        "g": 0.34117648,
+        "b": 0.34117648,
+        "a": 1.0
+      },
+      "_SpecularColor2": {
+        "r": 1.0,
+        "g": 0.9960785,
+        "b": 0.90196085,
+        "a": 1.0
+      },
+      "_SpecularColor3": {
+        "r": 0.91372555,
+        "g": 0.91372555,
+        "b": 0.91372555,
+        "a": 1.0
+      },
+      "_SpecularColor5": {
+        "r": 0.9843138,
+        "g": 0.9686275,
+        "b": 0.85098046,
+        "a": 1.0
+      },
+      "_SpecularColor6": {
+        "r": 0.9568628,
+        "g": 0.9568628,
+        "b": 0.9568628,
+        "a": 1.0
+      },
+      "_SpecularColor7": {
+        "r": 0.28635636,
+        "g": 0.343928,
+        "b": 0.4245283,
+        "a": 1.0
+      },
+      "_mBloomColor2": {
+        "r": 1.0,
+        "g": 0.9725491,
+        "b": 0.81568635,
+        "a": 1.0
+      }
+    }
+  },
+  "m_Name": "Evanescia_01_Mat_Body_Glass",
+  "Name": "Evanescia_01_Mat_Body_Glass"
+}
