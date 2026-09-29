@@ -991,14 +991,14 @@
     },
 	{
         "id": 20000091,
-        "name": "Nihilux",
-        "weaponType": "Universal",
-        "element": "Universal",
+        "name": "Aeon ★ Aha",
+        "weaponType": "Elation",
+        "element": "Quantum",
         "gender": "Female",
-        "rarity": 6,
-        "directory": "hsr/chars/Nihilux",
-        "image": "hsr/HSR/Nihilux.png",
-        "pmx": "Nihilux.pmx"
+        "rarity": 5,
+        "directory": "hsr/chars/Aeon ★ Aha",
+        "image": "hsr/HSR/Aeon Aha.png",
+        "pmx": "Aha.pmx"
     },
 	{
         "id": 2000001,
@@ -1153,5 +1153,16 @@
         "directory": "hsr/chars/Asat Pramad",
         "image": "hsr/HSR/Asat Pramad.png",
         "pmx": "Asat Pramad.pmx"
+    },
+	{
+        "id": 2000015,
+        "name": "Nihilux",
+        "weaponType": "Universal",
+        "element": "Universal",
+        "gender": "Female",
+        "rarity": 6,
+        "directory": "hsr/chars/Nihilux",
+        "image": "hsr/HSR/Nihilux.png",
+        "pmx": "Nihilux.pmx"
     }
 ]

@@ -295,5 +295,16 @@
         "directory": "hsr/chars/Caelus/Caelus_skin",
         "image": "hsr/HSR/Caelus.png",
         "pmx": "Caelus.pmx"
+    },
+	{
+        "id": 20000091,
+        "name": "Aeon ★ Aha",
+        "weaponType": "Elation",
+        "element": "Quantum",
+        "gender": "Female",
+        "rarity": 5,
+        "directory": "hsr/chars/Aeon ★ Aha 2",
+        "image": "hsr/HSR/Aeon Aha.png",
+        "pmx": "Aha.pmx"
     }
 ]
