@@ -1001,6 +1001,17 @@
         "pmx": "Aha.pmx"
     },
 	{
+        "id": 20000100,
+        "name": "Obsidian",
+        "weaponType": "Universal",
+        "element": "Universal",
+        "gender": "Female",
+        "rarity": 6,
+        "directory": "hsr/chars/Obsidian",
+        "image": "hsr/HSR/Obsidian.png",
+        "pmx": "Obsidian.pmx"
+    },
+	{
         "id": 2000001,
         "name": "Cocolia",
         "weaponType": "Universal",
@@ -1164,16 +1175,5 @@
         "directory": "hsr/chars/Nihilux",
         "image": "hsr/HSR/Nihilux.png",
         "pmx": "Nihilux.pmx"
-    },
-	{
-        "id": 2000016,
-        "name": "Obsidian",
-        "weaponType": "Universal",
-        "element": "Universal",
-        "gender": "Female",
-        "rarity": 6,
-        "directory": "hsr/chars/Obsidian",
-        "image": "hsr/HSR/Obsidian.png",
-        "pmx": "Obsidian.pmx"
     }
 ]
