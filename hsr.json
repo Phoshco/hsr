@@ -1164,5 +1164,16 @@
         "directory": "hsr/chars/Nihilux",
         "image": "hsr/HSR/Nihilux.png",
         "pmx": "Nihilux.pmx"
+    },
+	{
+        "id": 2000016,
+        "name": "Obsidian",
+        "weaponType": "Universal",
+        "element": "Universal",
+        "gender": "Female",
+        "rarity": 6,
+        "directory": "hsr/chars/Obsidian",
+        "image": "hsr/HSR/Obsidian.png",
+        "pmx": "Obsidian.pmx"
     }
 ]

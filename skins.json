@@ -306,5 +306,16 @@
         "directory": "hsr/chars/Aeon ★ Aha/Aeon ★ Aha 2",
         "image": "hsr/HSR/Aeon Aha.png",
         "pmx": "Aha.pmx"
+    },
+	{
+        "id": 20000048,
+        "name": "Aventurine",
+        "weaponType": "Preservation",
+        "element": "Imaginary",
+        "gender": "Male",
+        "rarity": 5,
+        "directory": "hsr/chars/Aventurine/Aventurine_uniform",
+        "image": "hsr/HSR/Aventurine.png",
+        "pmx": "Aventurine.pmx"
     }
 ]
