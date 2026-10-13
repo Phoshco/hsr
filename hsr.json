@@ -998,7 +998,7 @@
         "rarity": 5,
         "directory": "hsr/chars/Aeon ★ Aha/Aeon ★ Aha",
         "image": "hsr/HSR/Aeon Aha.png",
-        "pmx": "Aha.pmx"
+        "pmx": "Aha.mmd.pmx"
     },
 	{
         "id": 20000100,
@@ -1174,6 +1174,6 @@
         "rarity": 6,
         "directory": "hsr/chars/Nihilux",
         "image": "hsr/HSR/Nihilux.png",
-        "pmx": "Nihilux.pmx"
+        "pmx": "Nihilux.mmd.pmx"
     }
 ]
