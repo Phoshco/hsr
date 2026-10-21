@@ -1175,5 +1175,16 @@
         "directory": "hsr/chars/Nihilux",
         "image": "hsr/HSR/Nihilux.png",
         "pmx": "Nihilux.mmd.pmx"
+    },
+	{
+        "id": 2000016,
+        "name": "Sugilite",
+        "weaponType": "Universal",
+        "element": "Universal",
+        "gender": "Male",
+        "rarity": 6,
+        "directory": "hsr/chars/Sugilite",
+        "image": "hsr/HSR/Sugilite.png",
+        "pmx": "Sugilite.pmx"
     }
 ]
