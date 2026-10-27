@@ -305,7 +305,8 @@
         "rarity": 5,
         "directory": "hsr/chars/Aeon ★ Aha/Aeon ★ Aha 2",
         "image": "hsr/HSR/Aeon Aha.png",
-        "pmx": "Aha.pmx"
+        "pmx": "Aha.pmx",
+		"exception": true
     },
 	{
         "id": 20000048,
