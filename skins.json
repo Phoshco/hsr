@@ -297,13 +297,37 @@
         "pmx": "Caelus.pmx"
     },
 	{
-        "id": 20000091,
+        "id": 20000991,
         "name": "Aeon ★ Aha",
         "weaponType": "Elation",
         "element": "Quantum",
         "gender": "Female",
         "rarity": 5,
         "directory": "hsr/chars/Aeon ★ Aha/Aeon ★ Aha 2",
+        "image": "hsr/HSR/Aeon Aha.png",
+        "pmx": "Aha.pmx",
+		"exception": true
+    },
+	{
+        "id": 20000891,
+        "name": "Aeon ★ Aha",
+        "weaponType": "Elation",
+        "element": "Quantum",
+        "gender": "Female",
+        "rarity": 5,
+        "directory": "hsr/chars/Aeon ★ Aha/Aeon ★ Aha_skin",
+        "image": "hsr/HSR/Aeon Aha.png",
+        "pmx": "Aha.pmx",
+		"exception": true
+    },
+	{
+        "id": 20000091,
+        "name": "Aeon ★ Aha",
+        "weaponType": "Elation",
+        "element": "Quantum",
+        "gender": "Female",
+        "rarity": 5,
+        "directory": "hsr/chars/Aeon ★ Aha/Aeon ★ Aha 2_skin",
         "image": "hsr/HSR/Aeon Aha.png",
         "pmx": "Aha.pmx",
 		"exception": true
