@@ -317,8 +317,7 @@
         "rarity": 5,
         "directory": "hsr/chars/Aeon ★ Aha/Aeon ★ Aha_skin",
         "image": "hsr/HSR/Aeon Aha.png",
-        "pmx": "Aha.pmx",
-		"exception": true
+        "pmx": "Aha.pmx"
     },
 	{
         "id": 20000091,
